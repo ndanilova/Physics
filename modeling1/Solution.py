@@ -1,5 +1,5 @@
 from scipy import constants
-from math import sqrt, ceil, floor, asin, exp, factorial, sin
+from math import*
 import matplotlib.pyplot as plt
 import numpy as np
 # Потенциальная энергия взята как 13.6 эВ -> электрон на первой орбите атома водорода
