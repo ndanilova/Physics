@@ -1,8 +1,8 @@
 import numpy as np
 from math import sin, cos, pi
 import matplotlib.pyplot as plt
-
-P = 99999999999
+print("P:")
+P = int(input())
 L = 40
 step = 0.01
 def p_part(x):
